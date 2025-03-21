@@ -74,12 +74,20 @@ Quantization can be achieved by following primary techniques.
 - QAT is more robust compared to PTQ, as it learns better during actual model training aiding the losses to converge accordingly.
 
 
+## Tutorial Notebooks
+
+| Topic Name    | PyTorch Tutorials |
+| -------- | ------- |
+|Post Training Dynamic Quantization|  [PTDQ_Tutorial.ipynb](#link) |
+|Post Training Static Quantization| [PTSQ_Tutorial.ipynb](#link) |
+|Quantization Aware Training|[QAT_Tutorial.ipynb](#link)|
+|Quantization Aware Training|[QAT_Tutorial.ipynb](#link)|
+|Quantization using Bits and Bytes|[bitsandbytes.ipynb](#link)|
+
 
 # References
 
 **Notebooks**
-- [Pytorch Post training Quantization](https://github.com/hkproj/quantization-notes/blob/main/post_training_quantization.ipynb)
-- [Pytorch Quantization aware training](https://github.com/hkproj/quantization-notes/blob/main/quantization_aware_training.ipynb)
 - [Tensorflow Post training quantization](https://colab.research.google.com/drive/16FnHAiGEZREZ_FYU7Zs6eGQ2CBrklwdG)
 - [Tensorflow Quantization aware training](https://colab.research.google.com/drive/19bP6iSfaXSJinxNzlBqr6sWCTW0oki4l)
 
@@ -89,14 +97,10 @@ Quantization can be achieved by following primary techniques.
 - [Tensorflow Quantization aware training](https://www.tensorflow.org/model_optimization/guide/quantization/training)
 
 
-**Tutorials**
+**Video**
 - [Quantization explained with PyTorch - Post-Training Quantization, Quantization-Aware Training
 ](https://youtu.be/0VdNflU08yA?si=ITIOJvxSRApH0wzj)
-- [Symmetric and Asymmetric Quantization](https://colab.research.google.com/drive/19X-UELf_IwlkwxBbrjCyVXb_ZeWjkhFz#scrollTo=ezvx-TDiViJc)
-- [PTDQ_Tutorial.ipynb](https://colab.research.google.com/drive/1uuRKIjjjIVmZcbcUrseqeJFsgUsbuvos)
-- [PTSQ_Tutorial.ipynb](https://colab.research.google.com/drive/1Vc_cwEfCDlVVem05Uara9SnsMGGJNG_5)
-- [QAT_Tutorial.ipynb](https://colab.research.google.com/drive/1gMicGzienp29hstJiatcOsQJyNd7XI4b#scrollTo=_gmqtQpk508e)
 
 **Presentation**
-https://docs.google.com/presentation/d/109SswZqypVwjH2bZc2DIW8ydLZvHR_F7/edit#slide=id.p1
+# link of ppt
 
