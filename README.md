@@ -1,4 +1,3 @@
-# model_quantization
 Tutorial / seminar on quantization of DL models.
 
 # What is Quantization?
@@ -74,7 +73,7 @@ Quantization can be achieved by following primary techniques.
 - QAT is more robust compared to PTQ, as it learns better during actual model training aiding the losses to converge accordingly.
 
 
-## Tutorial Notebooks
+# Tutorial Notebooks
 
 | Topic Name    | PyTorch Tutorials |
 | -------- | ------- |
