@@ -78,11 +78,10 @@ Quantization can be achieved by following primary techniques.
 
 | Topic Name    | PyTorch Tutorials |
 | -------- | ------- |
-|Post Training Dynamic Quantization|  [PTDQ_Tutorial.ipynb](#link) |
-|Post Training Static Quantization| [PTSQ_Tutorial.ipynb](#link) |
-|Quantization Aware Training|[QAT_Tutorial.ipynb](#link)|
-|Quantization Aware Training|[QAT_Tutorial.ipynb](#link)|
-|Quantization using Bits and Bytes|[bitsandbytes.ipynb](#link)|
+|Post Training Dynamic Quantization|  [PTDQ_Tutorial.ipynb](tutorials/PTDQ_Tutorial.ipynb) |
+|Post Training Static Quantization| [PTSQ_Tutorial.ipynb](tutorials/PTSQ_Tutorial.ipynb) |
+|Quantization Aware Training|[QAT_Tutorial.ipynb](tutorials/QAT_Tutorial.ipynb)|
+|Quantization using Bits and Bytes|[bitsandbytes.ipynb](tutorials/bitsandbytes.ipynb)|
 
 
 # References
@@ -102,5 +101,4 @@ Quantization can be achieved by following primary techniques.
 ](https://youtu.be/0VdNflU08yA?si=ITIOJvxSRApH0wzj)
 
 **Presentation**
-# link of ppt
-
+- [Introduction-to-Quantization.pptx](Introduction-to-Quantization.pptx)
