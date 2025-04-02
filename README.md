@@ -100,4 +100,4 @@ Quantization can be achieved by following primary techniques.
 ](https://youtu.be/0VdNflU08yA?si=ITIOJvxSRApH0wzj)
 
 **Presentation**
-- [Introduction-to-Quantization.pptx](Introduction-to-Quantization.pptx)
+- [Introduction-to-Quantization.pdf](Introduction-to-Quantization.pdf)
